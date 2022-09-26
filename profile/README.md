@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![image](https://user-images.githubusercontent.com/20001641/156824560-8faf0fe4-f030-4358-bd2e-1d04049e169a.png)
+![logo_app_2022_2](https://user-images.githubusercontent.com/20001641/192375353-3f81df0a-44ea-42cf-90f7-7a81b5a4226b.png)
 
 
 ### Antecedentes Historicos.
