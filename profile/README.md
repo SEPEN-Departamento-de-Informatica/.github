@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-![logo_app_2022_2](https://user-images.githubusercontent.com/20001641/192375353-3f81df0a-44ea-42cf-90f7-7a81b5a4226b.png)
+![Uploading logo_2023.png…]()
 
 
 ### Antecedentes Historicos.
