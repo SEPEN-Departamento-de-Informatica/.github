@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Uploading logo_2023.png…]()
+
 
 ### Antecedentes Historicos.
 Derivado del Acuerdo Nacional para la Modernización de la Educación Básica, el 6 de Junio de 1992, mediante decreto 7510 publicado en el Periodico Oficial del Estado, se crea el Organismo Público Descentralizado "SERVICIOS DE EDUCACIÓN PÚBLICA DEL ESTADO DE NAYARIT", el cual cuenta con personalidad jurídica y patrimonio propios, teniendo por objeto la Dirección y Administración Técnica de los establecimientos correspondientes al Sistema Educativo transferidos por el Gobierno Federal al Gobierno del Estado.
