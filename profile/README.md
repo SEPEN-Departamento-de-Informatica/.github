@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Uploading logo_2023.png…]()
 
 
 ### Antecedentes Historicos.
