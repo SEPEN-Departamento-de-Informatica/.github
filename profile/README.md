@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-![logo_app](https://github.com/SEPEN-Departamento-de-Informatica/.github/assets/20001641/5a4a8af6-91e5-4449-abbf-fc65813b2b48)
-
+![logo_app](https://github.com/user-attachments/assets/d8821787-a073-48dd-99d7-db7439d8d7d5)
 
 ### Antecedentes Historicos.
 Derivado del Acuerdo Nacional para la Modernización de la Educación Básica, el 6 de Junio de 1992, mediante decreto 7510 publicado en el Periodico Oficial del Estado, se crea el Organismo Público Descentralizado "SERVICIOS DE EDUCACIÓN PÚBLICA DEL ESTADO DE NAYARIT", el cual cuenta con personalidad jurídica y patrimonio propios, teniendo por objeto la Dirección y Administración Técnica de los establecimientos correspondientes al Sistema Educativo transferidos por el Gobierno Federal al Gobierno del Estado.
